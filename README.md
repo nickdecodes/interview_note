@@ -199,8 +199,8 @@
 | [509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/) | 简单 |
 | [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)  | 简单 |
 | [746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | 简单 |
-| [674. 最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) |      |
-| [392.判断子序列](https://leetcode.cn/problems/is-subsequence/) |      |
+| [674. 最长连续递增序列](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | 简单 |
+| [392.判断子序列](https://leetcode.cn/problems/is-subsequence/) | 简单 |
 | [62.不同路径](https://leetcode.cn/problems/unique-paths/)    | 中等 |
 | [63. 不同路径 II](https://leetcode.cn/problems/unique-paths-ii/) | 中等 |
 | [343. 整数拆分](https://leetcode.cn/problems/integer-break/) | 中等 |
