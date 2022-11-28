@@ -48,10 +48,9 @@
 | [383. 赎金信](https://leetcode.cn/problems/ransom-note/)     | 简单 |
 | [49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | 中等 |
 | [438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | 中等 |
-| [18. 四数之和](https://leetcode.cn/problems/4sum/)           | 中等 |
-| [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/)    | 中等 |
 | [15. 三数之和](https://leetcode.cn/problems/3sum/)           | 中等 |
 | [18. 四数之和](https://leetcode.cn/problems/4sum/)           | 中等 |
+| [454. 四数相加 II](https://leetcode.cn/problems/4sum-ii/)    | 中等 |
 
 
 
